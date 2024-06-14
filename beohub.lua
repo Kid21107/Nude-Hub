@@ -71,7 +71,7 @@ local j = "-BloxFruit.json"
 local l = game.Players.LocalPlayer.Name .. j
 if Adel then
     HttpService = game:GetService("HttpService")
-    local i = "Adel Hub"
+    local i = "Nude Hub"
     local j = "-BloxFruit.json"
     local l = game.Players.LocalPlayer.Name .. j
 end
@@ -335,9 +335,9 @@ concacsss = Adel and "Adel" or "YMF"
 local A =
     z:MakeWindow(
     {
-        Name = "Blox Fruit (Adel Hub)",
+        Name = "Blox Fruit (Nude Hub)",
         IntroEnabled = false,
-        IntroText = "Adel Hub Library",
+        IntroText = "Nude Hub Library",
         IntroIcon = "rbxassetid://13779309461",
         HidePremium = false,
         SaveConfig = false,
